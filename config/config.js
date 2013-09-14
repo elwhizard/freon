@@ -15,7 +15,7 @@ var path = require('path')
 
 module.exports = {
   production: {
-    db: 'mongodb://paulo.mongohq.com:10004/app18083805',
+    db: 'mongodb://freon_user:--FRe()N!--@paulo.mongohq.com:10004/app18083805',
     root: rootPath,
     notifier: notifier,
     app: {
