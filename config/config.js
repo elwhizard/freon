@@ -14,6 +14,14 @@ var path = require('path')
     }
 
 module.exports = {
+  production: {
+    db: 'mongodb://paulo.mongohq.com:10004/app18083805',
+    root: rootPath,
+    notifier: notifier,
+    app: {
+      name: 'FReoN - Feed Reader on Node.js'
+    }
+  },
   development: {
     db: 'mongodb://localhost/freon',
     root: rootPath,
@@ -43,11 +51,11 @@ module.exports = {
     }
   },
   test: {
-    db: 'mongodb://localhost/noobjs_test',
+    db: 'mongodb://localhost/freon_test',
     root: rootPath,
     notifier: notifier,
     app: {
-      name: 'Nodejs Express Mongoose Demo'
+      name: 'FReoN Test'
     },
     facebook: {
       clientID: "APP_ID",
