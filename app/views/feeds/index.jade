@@ -1,0 +1,18 @@
+extends ../layouts/loggedIn
+
+block freon
+  link(rel="stylesheet" type="text/css" href="http://cdn.sencha.io/ext/gpl/4.2.1/resources/ext-theme-neptune/ext-theme-neptune-all.css")
+  link(rel="stylesheet" type="text/css" href="js/freon.css")
+  script(type="text/javascript" src="http://cdn.sencha.io/ext/gpl/4.2.1/ext-all.js")
+  script(type="text/javascript" src="/js/viewer/ux/PreviewPlugin.js")
+  script(type="text/javascript" src="http://cdn.sencha.io/ext/gpl/4.2.1/ext-theme-neptune.js")
+  script(type="text/javascript" src="/js/viewer/FeedGrid.js")
+  script(type="text/javascript" src="/js/viewer/FeedPost.js")
+  script(type="text/javascript" src="/js/viewer/FeedDetail.js")    
+  script(type="text/javascript" src="/js/viewer/FeedInfo.js")
+  script(type="text/javascript" src="/js/viewer/FeedPanel.js")    
+  script(type="text/javascript" src="/js/viewer/FeedWindow.js")
+  script(type="text/javascript" src="/js/viewer/FREON.js")
+  script(type="text/javascript" src="/js/app.js")
+block content
+  div= appContainer

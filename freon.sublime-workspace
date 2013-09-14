@@ -1,0 +1,311 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ti",
+				"title"
+			],
+			[
+				"task",
+				"tasksCol"
+			],
+			[
+				"valid",
+				"validateUserDoc"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 297.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/elluisinvento/Study/node-express-mongoose-demo/app/views/users/auth.jade",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/YASFU/config/config.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/YASFU/config/routes.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/YASFU/config/middlewares/authorization.js",
+		"/Users/elluisinvento/Study/node-express-mongoose-demo/config/config.example.js",
+		"/Users/elluisinvento/Study/node-express-mongoose-demo/app/controllers/users.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/views/layouts/default.jade",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/views/500.jade",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/views/index.jade",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/views/articles/edit.jade",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/views/feeds/default.jade",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/config/config.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/config/express.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/views/users/show.jade",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/views/users/login.jade",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/views/layouts/mobile.jade",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/lib/utils.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/package.json",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/controllers/comments.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/views/articles/index.jade",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/controllers/site.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/controllers/articles.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/views/includes/footer.jade",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/views/layouts/loggedIn.jade",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/views/users/auth.jade",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/controllers/feeds.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/views/users/signup.jade",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/controllers/social.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/config/middlewares/authorization.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/config/routes.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/controllers/users.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/models/user.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/views/includes/head.jade",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/views/includes/header.jade",
+		"/Users/elluisinvento/Study/node-express-mongoose-demo/app/views/users/show.jade",
+		"/Users/elluisinvento/Study/node-express-mongoose-demo/app/views/users/login.jade",
+		"/Users/elluisinvento/Study/node-express-mongoose-demo/app/views/users/signup.jade",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/controllers/tags.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/views/includes/messages.jade",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/views/articles/feeds.jade",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/views/includes/foot.jade",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/readme.md",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/public/build/build.sh",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/public/build/app.build.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/public/js/main.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/config/passport.js",
+		"/Users/elluisinvento/Study/node-express-mongoose-demo/package.json",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/public/index.html",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/public/css/style.css",
+		"/Users/elluisinvento/Study/node-express-mongoose-demo/lib/utils.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/node_modules/nodemon/package.json",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/config/imager.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw4/app/index.html",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw4/config/express.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw4/config/config.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw4/package.json",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw4/views/welcome.html",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw4/views/layout_login.ejs",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw4/views/layout.ejs",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw4/models/social.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw4/lib/util.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw4/models/user.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw4/routes/index.js",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw4/app.js",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw3/hw/hw3-2and3-3/blog/app.js",
+		"/Users/elluisinvento/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw3/hw/hw3-2and3-3/validate/hw3-3_validate.js",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw3/hw/hw3-2and3-3/validate/hw3-2_validate.js",
+		"/Users/elluisinvento/Desktop/.localized",
+		"/Users/elluisinvento/Desktop/.DS_Store",
+		"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw3/yasfu/app/scripts/models/.gitignore",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw2/hw2-3/blog/routes/session.js",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw2/hw2-3/blog/routes/index.js",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw2/hw2-3/blog/app.js",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw2/hw2-3/blog/views/welcome.html",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw2/hw2-3/blog/sessions.js",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw2/hw2-3/blog/users.js",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw2/lesson2_examples.ea66a48da687/save/app.js",
+		"/Users/elluisinvento/Study/backbone_js/yo/Gruntfile.js",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw2/hw2-2/query.js",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw2/hw2-2/validate/validate.js",
+		"/Users/elluisinvento/Study/backbone_js/backbone.js",
+		"/Users/elluisinvento/Study/backbone_js/yo/bower.json",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw2/hw2-3/blog/views/login.html",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw2/hw2-3/blog/posts.js",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw2/lesson2_examples.ea66a48da687/insert_id/app.js",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw2/lesson2_examples.ea66a48da687/find_lt_gt/quiz.js",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw2/lesson2_examples.ea66a48da687/upsert/app.js",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw2/lesson2_examples.ea66a48da687/findAndModify/app.js",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw2/lesson2_examples.ea66a48da687/find_cursors/app.js",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw2/lesson2_examples.ea66a48da687/find/app.js",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw2/lesson2_examples.ea66a48da687/skip_limit_sort/app.js",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw2/lesson2_examples.ea66a48da687/update_single/app.js",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw2/lesson2_examples.ea66a48da687/update_operator/app.js",
+		"/Users/elluisinvento/Study/backbone_js/yo/app/styles/main.scss",
+		"/Users/elluisinvento/Study/backbone_js/yo/dist/index.html",
+		"/Users/elluisinvento/Study/backbone_js/yo/package.json",
+		"/Users/elluisinvento/Node/sinet_training/session_01/hello.js",
+		"/Users/elluisinvento/Node/sinet_training/session_02/server.js",
+		"/Users/elluisinvento/mongodb/10Gen_Course/M101JS/hw1/hw1-2/app.js",
+		"/Volumes/WISFLASH/Shimo/Readme.rtf",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/Volumes/WISFLASH/Shimo/AJhacks®.s3lic",
+		"/Library/WebServer/Documents/phpmyadmin/config.inc.php",
+		"/Users/elluisinvento/Downloads/S.Text.v2.222/Linezer0.nfo"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Library/WebServer/Documents/extjs/ext-4.2.1/examples/feed-viewer",
+			"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5",
+			"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/config",
+			"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app",
+			"/Users/elluisinvento/Study/node-express-mongoose-demo",
+			"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5",
+			"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/config",
+			"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/controllers",
+			"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/YASFU",
+			"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5",
+			"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app",
+			"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5",
+			"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app/views",
+			"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5",
+			"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5/app",
+			"/Users/elluisinvento/Dropbox/SInet/Node_Training/session_06/hw5"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"data",
+			"feeds",
+			"sencha forums",
+			"logout",
+			"Invalid email or password.",
+			"invalid",
+			"requireslogin",
+			"passport",
+			"auth/twitter",
+			"cookie",
+			"session",
+			"users.user",
+			".user",
+			"req.profile",
+			"profile",
+			"show",
+			"article",
+			".authenticate",
+			"save(",
+			"authcallback",
+			"}\n",
+			"req.profile",
+			".user",
+			"show",
+			"req.profile",
+			"('/')",
+			"hasAuthorization",
+			"articleAuth",
+			"center",
+			"show",
+			"profile",
+			")\n",
+			"session",
+			"profile",
+			"show",
+			"authCallback",
+			"login",
+			"google",
+			"nodejs-express-demo",
+			"pAZ",
+			"MongoClient",
+			"validateUserDoc",
+			"signup",
+			"followsym",
+			"httpd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true
+}
