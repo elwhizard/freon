@@ -1,7 +1,7 @@
 var mongoose = require('mongoose')
   , User = mongoose.model('User')
   , utils = require('../../lib/utils')
-  , FeedParser = require('feedParser')
+  , FeedParser = require('feedparser')
   , request = require('request')
   , _ = require('underscore');
 
