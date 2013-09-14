@@ -20,6 +20,26 @@ module.exports = {
     notifier: notifier,
     app: {
       name: 'FReoN - Feed Reader on Node.js'
+    },
+    facebook: {
+      clientID: "APP_ID",
+      clientSecret: "APP_SECRET",
+      callbackURL: "http://localhost:3000/auth/facebook/callback"
+    },
+    twitter: {
+      clientID: "CONSUMER_KEY",
+      clientSecret: "CONSUMER_SECRET",
+      callbackURL: "http://localhost:3000/auth/twitter/callback"
+    },
+    github: {
+      clientID: 'APP_ID',
+      clientSecret: 'APP_SECRET',
+      callbackURL: 'http://localhost:3000/auth/github/callback'
+    },
+    linkedin: {
+      clientID: "CONSUMER_KEY",
+      clientSecret: "CONSUMER_SECRET",
+      callbackURL: "http://localhost:3000/auth/linkedin/callback"
     }
   },
   development: {
